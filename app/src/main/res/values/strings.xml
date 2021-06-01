@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="gps_camera">Ubicación y Cámara</string>
+    <string name="add_permissions">Agregar los permisos:</string>
+    <string name="permissions_accepted">Los permisos fueron aceptados y puedes continuar…</string>
+    <string name="permissions_rejected_first">Permisos rechazados por primera vez</string>
+    <string name="permissions_rejected">Permisos rechazados, debes ir a ajustes</string>
+
+
+</resources>
